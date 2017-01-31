@@ -37,7 +37,12 @@ The output for each rover should be its final co-ordinates and heading.
 
 -------------------------------------------------------------------------------------------
 
-To run the program clone or download this files to your PC.
-Open the cmd or the terminal that the files are locate in your PC.
-First compile the files with the command: javac Main.java
-The run the programn with the command: java Main
+INSTRUCTIONS:
+
+1 - To run the program clone or download this files to your PC.
+
+2 - Open the cmd or the terminal that the files are locate in your PC.
+
+3 - First compile the files with the command: javac Main.java
+
+4- The run the programn with the command: java Main
