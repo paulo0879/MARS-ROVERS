@@ -39,10 +39,10 @@ The output for each rover should be its final co-ordinates and heading.
 
 INSTRUCTIONS:
 
-1 - To run the program clone or download this files to your PC.
+1- Clone or download this repo to your PC;
 
-2 - Open the cmd or the terminal that the files are locate in your PC.
+2- Open the terminal and go to the repo path locate in your PC; (Ex: C:\mars-rovers) 
 
-3 - First compile the files with the command: javac Main.java
+3- Compile the main file with the command: javac Main.java; 
 
-4- The run the programn with the command: java Main
+4- The run the programn with the command: java Main.
