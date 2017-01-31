@@ -34,3 +34,10 @@ to move until the first one has finished moving.
 OUTPUT:
 
 The output for each rover should be its final co-ordinates and heading.
+
+-------------------------------------------------------------------------------------------
+
+To run the program clone or download this files to your PC.
+Open the cmd or the terminal that the files are locate in your PC.
+First compile the files with the command: javac Main.java
+The run the programn with the command: java Main
